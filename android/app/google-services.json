@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903385709906",
+    "project_id": "chat-causas",
+    "storage_bucket": "chat-causas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903385709906:android:88956cbf9a505b6b6f8e8b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903385709906-bvhfkoilvdokvrql590vr0s1b5rbajfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywkOeBi-Gs64AOnDZ4YpSDgdt8YpPk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903385709906-bvhfkoilvdokvrql590vr0s1b5rbajfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
